@@ -1,0 +1,4867 @@
+{
+  "catalogVersion": "2026.1",
+  "lastUpdated": "2026-03-01",
+  "totalDevices": 243,
+  "devices": [
+    {
+      "id": "apple-iphone-17-pro-max",
+      "name": "iPhone 17 Pro Max",
+      "manufacturer": "Apple",
+      "platform": "iOS",
+      "category": "iPhone",
+      "family": "iPhone 17 Series",
+      "viewportWidth": 440,
+      "viewportHeight": 956,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "dynamic-island",
+      "notes": "6.9-inch Super Retina XDR display; estimated iOS 19 viewport preset"
+    },
+    {
+      "id": "apple-iphone-17-pro",
+      "name": "iPhone 17 Pro",
+      "manufacturer": "Apple",
+      "platform": "iOS",
+      "category": "iPhone",
+      "family": "iPhone 17 Series",
+      "viewportWidth": 402,
+      "viewportHeight": 874,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "dynamic-island",
+      "notes": "6.3-inch Super Retina XDR display with ProMotion 120Hz"
+    },
+    {
+      "id": "apple-iphone-17-air",
+      "name": "iPhone 17 Air",
+      "manufacturer": "Apple",
+      "platform": "iOS",
+      "category": "iPhone",
+      "family": "iPhone 17 Series",
+      "viewportWidth": 420,
+      "viewportHeight": 912,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "dynamic-island",
+      "notes": "6.6-inch ultra-thin OLED form factor; estimated CSS viewport"
+    },
+    {
+      "id": "apple-iphone-17",
+      "name": "iPhone 17",
+      "manufacturer": "Apple",
+      "platform": "iOS",
+      "category": "iPhone",
+      "family": "iPhone 17 Series",
+      "viewportWidth": 402,
+      "viewportHeight": 874,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "dynamic-island",
+      "notes": "6.3-inch OLED display matching Pro baseline viewport"
+    },
+    {
+      "id": "apple-iphone-16-pro-max",
+      "name": "iPhone 16 Pro Max",
+      "manufacturer": "Apple",
+      "platform": "iOS",
+      "category": "iPhone",
+      "family": "iPhone 16 Series",
+      "viewportWidth": 440,
+      "viewportHeight": 956,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "dynamic-island",
+      "notes": "6.9-inch OLED (2868x1320 physical px @3x DPR)"
+    },
+    {
+      "id": "apple-iphone-16-pro",
+      "name": "iPhone 16 Pro",
+      "manufacturer": "Apple",
+      "platform": "iOS",
+      "category": "iPhone",
+      "family": "iPhone 16 Series",
+      "viewportWidth": 402,
+      "viewportHeight": 874,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "dynamic-island",
+      "notes": "6.3-inch OLED (2622x1206 physical px @3x DPR)"
+    },
+    {
+      "id": "apple-iphone-16-plus",
+      "name": "iPhone 16 Plus",
+      "manufacturer": "Apple",
+      "platform": "iOS",
+      "category": "iPhone",
+      "family": "iPhone 16 Series",
+      "viewportWidth": 430,
+      "viewportHeight": 932,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "dynamic-island",
+      "notes": "6.7-inch Super Retina XDR (2796x1290 physical px @3x DPR)"
+    },
+    {
+      "id": "apple-iphone-16",
+      "name": "iPhone 16",
+      "manufacturer": "Apple",
+      "platform": "iOS",
+      "category": "iPhone",
+      "family": "iPhone 16 Series",
+      "viewportWidth": 393,
+      "viewportHeight": 852,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "dynamic-island",
+      "notes": "6.1-inch Super Retina XDR (2556x1179 physical px @3x DPR)"
+    },
+    {
+      "id": "apple-iphone-16e",
+      "name": "iPhone 16e",
+      "manufacturer": "Apple",
+      "platform": "iOS",
+      "category": "iPhone",
+      "family": "iPhone 16 Series",
+      "viewportWidth": 390,
+      "viewportHeight": 844,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "notch",
+      "notes": "6.1-inch OLED entry flagship with Face ID notch"
+    },
+    {
+      "id": "apple-iphone-15-pro-max",
+      "name": "iPhone 15 Pro Max",
+      "manufacturer": "Apple",
+      "platform": "iOS",
+      "category": "iPhone",
+      "family": "iPhone 15 Series",
+      "viewportWidth": 430,
+      "viewportHeight": 932,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "dynamic-island",
+      "notes": "6.7-inch Titanium ProMotion OLED @3x DPR"
+    },
+    {
+      "id": "apple-iphone-15-pro",
+      "name": "iPhone 15 Pro",
+      "manufacturer": "Apple",
+      "platform": "iOS",
+      "category": "iPhone",
+      "family": "iPhone 15 Series",
+      "viewportWidth": 393,
+      "viewportHeight": 852,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "dynamic-island",
+      "notes": "6.1-inch Titanium ProMotion OLED @3x DPR"
+    },
+    {
+      "id": "apple-iphone-15-plus",
+      "name": "iPhone 15 Plus",
+      "manufacturer": "Apple",
+      "platform": "iOS",
+      "category": "iPhone",
+      "family": "iPhone 15 Series",
+      "viewportWidth": 430,
+      "viewportHeight": 932,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "dynamic-island",
+      "notes": "6.7-inch OLED with Dynamic Island"
+    },
+    {
+      "id": "apple-iphone-15",
+      "name": "iPhone 15",
+      "manufacturer": "Apple",
+      "platform": "iOS",
+      "category": "iPhone",
+      "family": "iPhone 15 Series",
+      "viewportWidth": 393,
+      "viewportHeight": 852,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "dynamic-island",
+      "notes": "6.1-inch OLED with Dynamic Island"
+    },
+    {
+      "id": "apple-iphone-14-pro-max",
+      "name": "iPhone 14 Pro Max",
+      "manufacturer": "Apple",
+      "platform": "iOS",
+      "category": "iPhone",
+      "family": "iPhone 14 Series",
+      "viewportWidth": 430,
+      "viewportHeight": 932,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "dynamic-island",
+      "notes": "6.7-inch Super Retina XDR with Dynamic Island"
+    },
+    {
+      "id": "apple-iphone-14-pro",
+      "name": "iPhone 14 Pro",
+      "manufacturer": "Apple",
+      "platform": "iOS",
+      "category": "iPhone",
+      "family": "iPhone 14 Series",
+      "viewportWidth": 393,
+      "viewportHeight": 852,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "dynamic-island",
+      "notes": "6.1-inch Super Retina XDR with Dynamic Island"
+    },
+    {
+      "id": "apple-iphone-14-plus",
+      "name": "iPhone 14 Plus",
+      "manufacturer": "Apple",
+      "platform": "iOS",
+      "category": "iPhone",
+      "family": "iPhone 14 Series",
+      "viewportWidth": 428,
+      "viewportHeight": 926,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "notch",
+      "notes": "6.7-inch Super Retina XDR with classic Face ID notch"
+    },
+    {
+      "id": "apple-iphone-14",
+      "name": "iPhone 14",
+      "manufacturer": "Apple",
+      "platform": "iOS",
+      "category": "iPhone",
+      "family": "iPhone 14 Series",
+      "viewportWidth": 390,
+      "viewportHeight": 844,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "notch",
+      "notes": "6.1-inch Super Retina XDR (2532x1170 physical px)"
+    },
+    {
+      "id": "apple-iphone-se-3",
+      "name": "iPhone SE (3rd Gen)",
+      "manufacturer": "Apple",
+      "platform": "iOS",
+      "category": "iPhone",
+      "family": "iPhone SE Series",
+      "viewportWidth": 375,
+      "viewportHeight": 667,
+      "dpr": 2,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "4.7-inch Retina HD Touch ID viewport (1334x750 @2x)"
+    },
+    {
+      "id": "apple-iphone-13-pro-max",
+      "name": "iPhone 13 Pro Max",
+      "manufacturer": "Apple",
+      "platform": "iOS",
+      "category": "iPhone",
+      "family": "iPhone 13 Series",
+      "viewportWidth": 428,
+      "viewportHeight": 926,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "notch",
+      "notes": "6.7-inch Super Retina XDR 120Hz"
+    },
+    {
+      "id": "apple-iphone-13-pro",
+      "name": "iPhone 13 Pro",
+      "manufacturer": "Apple",
+      "platform": "iOS",
+      "category": "iPhone",
+      "family": "iPhone 13 Series",
+      "viewportWidth": 390,
+      "viewportHeight": 844,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "notch",
+      "notes": "6.1-inch Super Retina XDR 120Hz"
+    },
+    {
+      "id": "apple-iphone-13",
+      "name": "iPhone 13",
+      "manufacturer": "Apple",
+      "platform": "iOS",
+      "category": "iPhone",
+      "family": "iPhone 13 Series",
+      "viewportWidth": 390,
+      "viewportHeight": 844,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "notch",
+      "notes": "6.1-inch Super Retina XDR standard flagship"
+    },
+    {
+      "id": "apple-iphone-13-mini",
+      "name": "iPhone 13 mini",
+      "manufacturer": "Apple",
+      "platform": "iOS",
+      "category": "iPhone",
+      "family": "iPhone 13 Series",
+      "viewportWidth": 375,
+      "viewportHeight": 812,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "notch",
+      "notes": "5.4-inch compact OLED (rendered at 375x812 logical pt)"
+    },
+    {
+      "id": "apple-iphone-12-pro-max",
+      "name": "iPhone 12 Pro Max",
+      "manufacturer": "Apple",
+      "platform": "iOS",
+      "category": "iPhone",
+      "family": "iPhone 12 Series",
+      "viewportWidth": 428,
+      "viewportHeight": 926,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "notch",
+      "notes": "6.7-inch Super Retina XDR"
+    },
+    {
+      "id": "apple-iphone-12-pro",
+      "name": "iPhone 12 Pro",
+      "manufacturer": "Apple",
+      "platform": "iOS",
+      "category": "iPhone",
+      "family": "iPhone 12 Series",
+      "viewportWidth": 390,
+      "viewportHeight": 844,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "notch",
+      "notes": "6.1-inch Super Retina XDR"
+    },
+    {
+      "id": "apple-iphone-12",
+      "name": "iPhone 12",
+      "manufacturer": "Apple",
+      "platform": "iOS",
+      "category": "iPhone",
+      "family": "iPhone 12 Series",
+      "viewportWidth": 390,
+      "viewportHeight": 844,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "notch",
+      "notes": "6.1-inch OLED viewport"
+    },
+    {
+      "id": "apple-iphone-12-mini",
+      "name": "iPhone 12 mini",
+      "manufacturer": "Apple",
+      "platform": "iOS",
+      "category": "iPhone",
+      "family": "iPhone 12 Series",
+      "viewportWidth": 375,
+      "viewportHeight": 812,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "notch",
+      "notes": "5.4-inch compact OLED viewport"
+    },
+    {
+      "id": "apple-iphone-se-2",
+      "name": "iPhone SE (2nd Gen)",
+      "manufacturer": "Apple",
+      "platform": "iOS",
+      "category": "iPhone",
+      "family": "iPhone SE Series",
+      "viewportWidth": 375,
+      "viewportHeight": 667,
+      "dpr": 2,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "4.7-inch Retina HD legacy compact viewport"
+    },
+    {
+      "id": "apple-iphone-11-pro-max",
+      "name": "iPhone 11 Pro Max",
+      "manufacturer": "Apple",
+      "platform": "iOS",
+      "category": "iPhone",
+      "family": "iPhone 11 Series",
+      "viewportWidth": 414,
+      "viewportHeight": 896,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "notch",
+      "notes": "6.5-inch Super Retina XDR @3x DPR"
+    },
+    {
+      "id": "apple-iphone-11-pro",
+      "name": "iPhone 11 Pro",
+      "manufacturer": "Apple",
+      "platform": "iOS",
+      "category": "iPhone",
+      "family": "iPhone 11 Series",
+      "viewportWidth": 375,
+      "viewportHeight": 812,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "notch",
+      "notes": "5.8-inch Super Retina XDR @3x DPR"
+    },
+    {
+      "id": "apple-iphone-11",
+      "name": "iPhone 11",
+      "manufacturer": "Apple",
+      "platform": "iOS",
+      "category": "iPhone",
+      "family": "iPhone 11 Series",
+      "viewportWidth": 414,
+      "viewportHeight": 896,
+      "dpr": 2,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "notch",
+      "notes": "6.1-inch Liquid Retina HD @2x DPR"
+    },
+    {
+      "id": "apple-iphone-xr",
+      "name": "iPhone XR",
+      "manufacturer": "Apple",
+      "platform": "iOS",
+      "category": "iPhone",
+      "family": "iPhone X Series",
+      "viewportWidth": 414,
+      "viewportHeight": 896,
+      "dpr": 2,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "notch",
+      "notes": "6.1-inch Liquid Retina LCD @2x DPR"
+    },
+    {
+      "id": "apple-iphone-x",
+      "name": "iPhone X / XS",
+      "manufacturer": "Apple",
+      "platform": "iOS",
+      "category": "iPhone",
+      "family": "iPhone X Series",
+      "viewportWidth": 375,
+      "viewportHeight": 812,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "notch",
+      "notes": "5.8-inch OLED baseline Face ID viewport"
+    },
+    {
+      "id": "apple-ipad-pro-13-m4",
+      "name": "iPad Pro 13-inch (M4)",
+      "manufacturer": "Apple",
+      "platform": "iPadOS",
+      "category": "iPad",
+      "family": "iPad Pro Series",
+      "viewportWidth": 1032,
+      "viewportHeight": 1376,
+      "dpr": 2,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "13-inch Tandem OLED Ultra Retina XDR (2752x2064 @2x)"
+    },
+    {
+      "id": "apple-ipad-pro-11-m4",
+      "name": "iPad Pro 11-inch (M4)",
+      "manufacturer": "Apple",
+      "platform": "iPadOS",
+      "category": "iPad",
+      "family": "iPad Pro Series",
+      "viewportWidth": 834,
+      "viewportHeight": 1210,
+      "dpr": 2,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "11-inch Tandem OLED Ultra Retina XDR (2420x1668 @2x)"
+    },
+    {
+      "id": "apple-ipad-air-13-m3",
+      "name": "iPad Air 13-inch (M3)",
+      "manufacturer": "Apple",
+      "platform": "iPadOS",
+      "category": "iPad",
+      "family": "iPad Air Series",
+      "viewportWidth": 1024,
+      "viewportHeight": 1366,
+      "dpr": 2,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "none",
+      "notes": "13-inch Liquid Retina tablet viewport"
+    },
+    {
+      "id": "apple-ipad-air",
+      "name": "iPad Air",
+      "manufacturer": "Apple",
+      "platform": "iPadOS",
+      "category": "iPad",
+      "family": "iPad Air Series",
+      "viewportWidth": 820,
+      "viewportHeight": 1180,
+      "dpr": 2,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "10.9/11-inch Liquid Retina standard iPad Air viewport (2360x1640 @2x)"
+    },
+    {
+      "id": "apple-ipad-air-11-m2",
+      "name": "iPad Air 11-inch (M2)",
+      "manufacturer": "Apple",
+      "platform": "iPadOS",
+      "category": "iPad",
+      "family": "iPad Air Series",
+      "viewportWidth": 820,
+      "viewportHeight": 1180,
+      "dpr": 2,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "11-inch Liquid Retina M2 viewport"
+    },
+    {
+      "id": "apple-ipad-air-13-m2",
+      "name": "iPad Air 13-inch (M2)",
+      "manufacturer": "Apple",
+      "platform": "iPadOS",
+      "category": "iPad",
+      "family": "iPad Air Series",
+      "viewportWidth": 1024,
+      "viewportHeight": 1366,
+      "dpr": 2,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "13-inch Liquid Retina M2 (2732x2048 @2x)"
+    },
+    {
+      "id": "apple-ipad-mini-a17-pro",
+      "name": "iPad mini (A17 Pro)",
+      "manufacturer": "Apple",
+      "platform": "iPadOS",
+      "category": "iPad",
+      "family": "iPad mini Series",
+      "viewportWidth": 744,
+      "viewportHeight": 1133,
+      "dpr": 2,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "8.3-inch Liquid Retina compact tablet (2266x1488 @2x)"
+    },
+    {
+      "id": "apple-ipad-mini-6",
+      "name": "iPad mini (6th Gen)",
+      "manufacturer": "Apple",
+      "platform": "iPadOS",
+      "category": "iPad",
+      "family": "iPad mini Series",
+      "viewportWidth": 744,
+      "viewportHeight": 1133,
+      "dpr": 2,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "8.3-inch Liquid Retina compact tablet"
+    },
+    {
+      "id": "apple-ipad-11-a16",
+      "name": "iPad (11th Gen, A16)",
+      "manufacturer": "Apple",
+      "platform": "iPadOS",
+      "category": "iPad",
+      "family": "iPad Series",
+      "viewportWidth": 820,
+      "viewportHeight": 1180,
+      "dpr": 2,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "none",
+      "notes": "10.9-inch all-screen Liquid Retina iPad"
+    },
+    {
+      "id": "apple-ipad-10",
+      "name": "iPad (10th Gen)",
+      "manufacturer": "Apple",
+      "platform": "iPadOS",
+      "category": "iPad",
+      "family": "iPad Series",
+      "viewportWidth": 820,
+      "viewportHeight": 1180,
+      "dpr": 2,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "10.9-inch Liquid Retina (2360x1640 @2x)"
+    },
+    {
+      "id": "apple-ipad-9",
+      "name": "iPad (9th Gen)",
+      "manufacturer": "Apple",
+      "platform": "iPadOS",
+      "category": "iPad",
+      "family": "iPad Series",
+      "viewportWidth": 810,
+      "viewportHeight": 1080,
+      "dpr": 2,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "10.2-inch Retina Touch ID iPad (2160x1620 @2x)"
+    },
+    {
+      "id": "apple-ipad-pro-12-9-m2",
+      "name": "iPad Pro 12.9-inch (M2)",
+      "manufacturer": "Apple",
+      "platform": "iPadOS",
+      "category": "iPad",
+      "family": "iPad Pro Series",
+      "viewportWidth": 1024,
+      "viewportHeight": 1366,
+      "dpr": 2,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "12.9-inch Liquid Retina XDR mini-LED"
+    },
+    {
+      "id": "apple-ipad-pro-11-m2",
+      "name": "iPad Pro 11-inch (M2)",
+      "manufacturer": "Apple",
+      "platform": "iPadOS",
+      "category": "iPad",
+      "family": "iPad Pro Series",
+      "viewportWidth": 834,
+      "viewportHeight": 1194,
+      "dpr": 2,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "11-inch Liquid Retina ProMotion (2388x1668 @2x)"
+    },
+    {
+      "id": "apple-ipad-pro-12-9-m1",
+      "name": "iPad Pro 12.9-inch (M1)",
+      "manufacturer": "Apple",
+      "platform": "iPadOS",
+      "category": "iPad",
+      "family": "iPad Pro Series",
+      "viewportWidth": 1024,
+      "viewportHeight": 1366,
+      "dpr": 2,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "12.9-inch Liquid Retina XDR"
+    },
+    {
+      "id": "apple-ipad-pro-11-m1",
+      "name": "iPad Pro 11-inch (M1)",
+      "manufacturer": "Apple",
+      "platform": "iPadOS",
+      "category": "iPad",
+      "family": "iPad Pro Series",
+      "viewportWidth": 834,
+      "viewportHeight": 1194,
+      "dpr": 2,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "11-inch Liquid Retina M1"
+    },
+    {
+      "id": "apple-ipad-air-5",
+      "name": "iPad Air (5th Gen)",
+      "manufacturer": "Apple",
+      "platform": "iPadOS",
+      "category": "iPad",
+      "family": "iPad Air Series",
+      "viewportWidth": 820,
+      "viewportHeight": 1180,
+      "dpr": 2,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "10.9-inch M1 iPad Air"
+    },
+    {
+      "id": "apple-ipad-air-4",
+      "name": "iPad Air (4th Gen)",
+      "manufacturer": "Apple",
+      "platform": "iPadOS",
+      "category": "iPad",
+      "family": "iPad Air Series",
+      "viewportWidth": 820,
+      "viewportHeight": 1180,
+      "dpr": 2,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "10.9-inch Liquid Retina"
+    },
+    {
+      "id": "apple-ipad-pro-10-5",
+      "name": "iPad Pro 10.5-inch",
+      "manufacturer": "Apple",
+      "platform": "iPadOS",
+      "category": "iPad",
+      "family": "iPad Pro Series",
+      "viewportWidth": 834,
+      "viewportHeight": 1112,
+      "dpr": 2,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "10.5-inch Retina ProMotion legacy tablet"
+    },
+    {
+      "id": "apple-ipad-mini-5",
+      "name": "iPad mini (5th Gen)",
+      "manufacturer": "Apple",
+      "platform": "iPadOS",
+      "category": "iPad",
+      "family": "iPad mini Series",
+      "viewportWidth": 768,
+      "viewportHeight": 1024,
+      "dpr": 2,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "7.9-inch classic 4:3 iPad viewport (2048x1536 @2x)"
+    },
+    {
+      "id": "samsung-galaxy-s25-ultra",
+      "name": "Samsung Galaxy S25 Ultra",
+      "manufacturer": "Samsung",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Galaxy S25 Series",
+      "viewportWidth": 412,
+      "viewportHeight": 891,
+      "dpr": 3.5,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.9-inch Dynamic AMOLED 2X QHD+ (default FHD+/QHD scaling)"
+    },
+    {
+      "id": "samsung-galaxy-s25-plus",
+      "name": "Samsung Galaxy S25+",
+      "manufacturer": "Samsung",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Galaxy S25 Series",
+      "viewportWidth": 384,
+      "viewportHeight": 832,
+      "dpr": 3.75,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.7-inch Dynamic AMOLED 2X 120Hz"
+    },
+    {
+      "id": "samsung-galaxy-s25",
+      "name": "Samsung Galaxy S25",
+      "manufacturer": "Samsung",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Galaxy S25 Series",
+      "viewportWidth": 360,
+      "viewportHeight": 780,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.2-inch Dynamic AMOLED 2X FHD+ @3x DPR"
+    },
+    {
+      "id": "samsung-galaxy-s25-edge",
+      "name": "Samsung Galaxy S25 Edge",
+      "manufacturer": "Samsung",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Galaxy S25 Series",
+      "viewportWidth": 384,
+      "viewportHeight": 832,
+      "dpr": 3.75,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.7-inch slim flagship AMOLED; estimated preset"
+    },
+    {
+      "id": "samsung-galaxy-s24-ultra",
+      "name": "Samsung Galaxy S24 Ultra",
+      "manufacturer": "Samsung",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Galaxy S24 Series",
+      "viewportWidth": 412,
+      "viewportHeight": 915,
+      "dpr": 3.5,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.8-inch flat Dynamic AMOLED 2X"
+    },
+    {
+      "id": "samsung-galaxy-s24-plus",
+      "name": "Samsung Galaxy S24+",
+      "manufacturer": "Samsung",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Galaxy S24 Series",
+      "viewportWidth": 384,
+      "viewportHeight": 832,
+      "dpr": 3.75,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.7-inch QHD+ Dynamic AMOLED 2X"
+    },
+    {
+      "id": "samsung-galaxy-s24",
+      "name": "Samsung Galaxy S24",
+      "manufacturer": "Samsung",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Galaxy S24 Series",
+      "viewportWidth": 360,
+      "viewportHeight": 780,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.2-inch FHD+ Dynamic AMOLED 2X"
+    },
+    {
+      "id": "samsung-galaxy-s24-fe",
+      "name": "Samsung Galaxy S24 FE",
+      "manufacturer": "Samsung",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Galaxy S24 Series",
+      "viewportWidth": 412,
+      "viewportHeight": 915,
+      "dpr": 2.625,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.7-inch Dynamic AMOLED 2X Fan Edition"
+    },
+    {
+      "id": "samsung-galaxy-s23-ultra",
+      "name": "Samsung Galaxy S23 Ultra",
+      "manufacturer": "Samsung",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Galaxy S23 Series",
+      "viewportWidth": 412,
+      "viewportHeight": 915,
+      "dpr": 3.5,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.8-inch QHD+ curved-edge AMOLED"
+    },
+    {
+      "id": "samsung-galaxy-s23-plus",
+      "name": "Samsung Galaxy S23+",
+      "manufacturer": "Samsung",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Galaxy S23 Series",
+      "viewportWidth": 384,
+      "viewportHeight": 824,
+      "dpr": 2.81,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.6-inch FHD+ AMOLED"
+    },
+    {
+      "id": "samsung-galaxy-s23",
+      "name": "Samsung Galaxy S23",
+      "manufacturer": "Samsung",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Galaxy S23 Series",
+      "viewportWidth": 360,
+      "viewportHeight": 780,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.1-inch compact flagship Android viewport"
+    },
+    {
+      "id": "samsung-galaxy-s22-ultra",
+      "name": "Samsung Galaxy S22 Ultra",
+      "manufacturer": "Samsung",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Galaxy S22 Series",
+      "viewportWidth": 412,
+      "viewportHeight": 891,
+      "dpr": 3.5,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.8-inch Dynamic AMOLED 2X"
+    },
+    {
+      "id": "samsung-galaxy-s22",
+      "name": "Samsung Galaxy S22",
+      "manufacturer": "Samsung",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Galaxy S22 Series",
+      "viewportWidth": 360,
+      "viewportHeight": 780,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.1-inch FHD+ AMOLED"
+    },
+    {
+      "id": "samsung-galaxy-a56",
+      "name": "Samsung Galaxy A56 5G",
+      "manufacturer": "Samsung",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Galaxy A Series",
+      "viewportWidth": 412,
+      "viewportHeight": 915,
+      "dpr": 2.625,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.7-inch Super AMOLED mid-range benchmark"
+    },
+    {
+      "id": "samsung-galaxy-a55",
+      "name": "Samsung Galaxy A55 5G",
+      "manufacturer": "Samsung",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Galaxy A Series",
+      "viewportWidth": 412,
+      "viewportHeight": 915,
+      "dpr": 2.625,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.6-inch Super AMOLED 120Hz"
+    },
+    {
+      "id": "samsung-galaxy-a35",
+      "name": "Samsung Galaxy A35 5G",
+      "manufacturer": "Samsung",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Galaxy A Series",
+      "viewportWidth": 412,
+      "viewportHeight": 915,
+      "dpr": 2.625,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.6-inch Super AMOLED popular global Android"
+    },
+    {
+      "id": "samsung-galaxy-a25",
+      "name": "Samsung Galaxy A25 5G",
+      "manufacturer": "Samsung",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Galaxy A Series",
+      "viewportWidth": 412,
+      "viewportHeight": 915,
+      "dpr": 2.625,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "notch",
+      "notes": "6.5-inch Super AMOLED Infinity-U"
+    },
+    {
+      "id": "samsung-galaxy-a15",
+      "name": "Samsung Galaxy A15 5G",
+      "manufacturer": "Samsung",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Galaxy A Series",
+      "viewportWidth": 384,
+      "viewportHeight": 854,
+      "dpr": 2.81,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "notch",
+      "notes": "6.5-inch high-volume global Android handset"
+    },
+    {
+      "id": "google-pixel-9-pro-xl",
+      "name": "Google Pixel 9 Pro XL",
+      "manufacturer": "Google",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Pixel 9 Series",
+      "viewportWidth": 448,
+      "viewportHeight": 998,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.8-inch Super Actua LTPO OLED (2992x1344 @3x)"
+    },
+    {
+      "id": "google-pixel-9-pro",
+      "name": "Google Pixel 9 Pro",
+      "manufacturer": "Google",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Pixel 9 Series",
+      "viewportWidth": 427,
+      "viewportHeight": 952,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.3-inch Super Actua LTPO OLED"
+    },
+    {
+      "id": "google-pixel-9",
+      "name": "Google Pixel 9",
+      "manufacturer": "Google",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Pixel 9 Series",
+      "viewportWidth": 412,
+      "viewportHeight": 923,
+      "dpr": 2.625,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.3-inch Actua OLED (2424x1080)"
+    },
+    {
+      "id": "google-pixel-9a",
+      "name": "Google Pixel 9a",
+      "manufacturer": "Google",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Pixel 9 Series",
+      "viewportWidth": 412,
+      "viewportHeight": 923,
+      "dpr": 2.625,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.3-inch Actua OLED mid-range Pixel"
+    },
+    {
+      "id": "google-pixel-8-pro",
+      "name": "Google Pixel 8 Pro",
+      "manufacturer": "Google",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Pixel 8 Series",
+      "viewportWidth": 448,
+      "viewportHeight": 998,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.7-inch Super Actua LTPO OLED"
+    },
+    {
+      "id": "google-pixel-8",
+      "name": "Google Pixel 8",
+      "manufacturer": "Google",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Pixel 8 Series",
+      "viewportWidth": 412,
+      "viewportHeight": 915,
+      "dpr": 2.625,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.2-inch Actua OLED (2400x1080)"
+    },
+    {
+      "id": "google-pixel-8a",
+      "name": "Google Pixel 8a",
+      "manufacturer": "Google",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Pixel 8 Series",
+      "viewportWidth": 412,
+      "viewportHeight": 915,
+      "dpr": 2.625,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.1-inch OLED 120Hz"
+    },
+    {
+      "id": "google-pixel-7-pro",
+      "name": "Google Pixel 7 Pro",
+      "manufacturer": "Google",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Pixel 7 Series",
+      "viewportWidth": 412,
+      "viewportHeight": 892,
+      "dpr": 3.5,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.7-inch QHD+ LTPO AMOLED"
+    },
+    {
+      "id": "google-pixel-7",
+      "name": "Google Pixel 7",
+      "manufacturer": "Google",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Pixel 7 Series",
+      "viewportWidth": 412,
+      "viewportHeight": 915,
+      "dpr": 2.625,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.3-inch FHD+ OLED"
+    },
+    {
+      "id": "google-pixel-7a",
+      "name": "Google Pixel 7a",
+      "manufacturer": "Google",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Pixel 7 Series",
+      "viewportWidth": 412,
+      "viewportHeight": 915,
+      "dpr": 2.625,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.1-inch FHD+ OLED"
+    },
+    {
+      "id": "google-pixel-6-pro",
+      "name": "Google Pixel 6 Pro",
+      "manufacturer": "Google",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Pixel 6 Series",
+      "viewportWidth": 412,
+      "viewportHeight": 892,
+      "dpr": 3.5,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.7-inch LTPO AMOLED"
+    },
+    {
+      "id": "google-pixel-6a",
+      "name": "Google Pixel 6a",
+      "manufacturer": "Google",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Pixel 6 Series",
+      "viewportWidth": 412,
+      "viewportHeight": 915,
+      "dpr": 2.625,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.1-inch OLED"
+    },
+    {
+      "id": "oneplus-13",
+      "name": "OnePlus 13",
+      "manufacturer": "OnePlus",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "OnePlus Flagship",
+      "viewportWidth": 422,
+      "viewportHeight": 938,
+      "dpr": 3.5,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.82-inch 2K 120Hz ProXDR LTPO AMOLED"
+    },
+    {
+      "id": "oneplus-13r",
+      "name": "OnePlus 13R",
+      "manufacturer": "OnePlus",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "OnePlus Flagship",
+      "viewportWidth": 412,
+      "viewportHeight": 915,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.78-inch 1.5K LTPO AMOLED"
+    },
+    {
+      "id": "oneplus-12",
+      "name": "OnePlus 12",
+      "manufacturer": "OnePlus",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "OnePlus Flagship",
+      "viewportWidth": 422,
+      "viewportHeight": 938,
+      "dpr": 3.5,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.82-inch QHD+ ProXDR AMOLED (3168x1440)"
+    },
+    {
+      "id": "oneplus-12r",
+      "name": "OnePlus 12R",
+      "manufacturer": "OnePlus",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "OnePlus Flagship",
+      "viewportWidth": 412,
+      "viewportHeight": 915,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.78-inch 1.5K AMOLED"
+    },
+    {
+      "id": "oneplus-11",
+      "name": "OnePlus 11 5G",
+      "manufacturer": "OnePlus",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "OnePlus Flagship",
+      "viewportWidth": 412,
+      "viewportHeight": 919,
+      "dpr": 3.5,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.7-inch QHD+ Fluid AMOLED"
+    },
+    {
+      "id": "oneplus-nord-4",
+      "name": "OnePlus Nord 4",
+      "manufacturer": "OnePlus",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "OnePlus Nord Series",
+      "viewportWidth": 412,
+      "viewportHeight": 915,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.74-inch 1.5K 120Hz AMOLED"
+    },
+    {
+      "id": "oneplus-nord-ce4",
+      "name": "OnePlus Nord CE4",
+      "manufacturer": "OnePlus",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "OnePlus Nord Series",
+      "viewportWidth": 412,
+      "viewportHeight": 919,
+      "dpr": 2.625,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.7-inch Fluid AMOLED"
+    },
+    {
+      "id": "oneplus-nord-n30",
+      "name": "OnePlus Nord N30 5G",
+      "manufacturer": "OnePlus",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "OnePlus Nord Series",
+      "viewportWidth": 412,
+      "viewportHeight": 915,
+      "dpr": 2.625,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.72-inch 120Hz LCD"
+    },
+    {
+      "id": "xiaomi-15-ultra",
+      "name": "Xiaomi 15 Ultra",
+      "manufacturer": "Xiaomi",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Xiaomi 15 Series",
+      "viewportWidth": 426,
+      "viewportHeight": 946,
+      "dpr": 3.375,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.73-inch WQHD+ All Around Liquid AMOLED"
+    },
+    {
+      "id": "xiaomi-15-pro",
+      "name": "Xiaomi 15 Pro",
+      "manufacturer": "Xiaomi",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Xiaomi 15 Series",
+      "viewportWidth": 426,
+      "viewportHeight": 946,
+      "dpr": 3.375,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.73-inch 2K LTPO AMOLED"
+    },
+    {
+      "id": "xiaomi-15",
+      "name": "Xiaomi 15",
+      "manufacturer": "Xiaomi",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Xiaomi 15 Series",
+      "viewportWidth": 400,
+      "viewportHeight": 890,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.36-inch 1.5K CrystalRes OLED (2670x1200)"
+    },
+    {
+      "id": "xiaomi-14-ultra",
+      "name": "Xiaomi 14 Ultra",
+      "manufacturer": "Xiaomi",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Xiaomi 14 Series",
+      "viewportWidth": 426,
+      "viewportHeight": 946,
+      "dpr": 3.375,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.73-inch WQHD+ LTPO AMOLED"
+    },
+    {
+      "id": "xiaomi-14",
+      "name": "Xiaomi 14",
+      "manufacturer": "Xiaomi",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Xiaomi 14 Series",
+      "viewportWidth": 400,
+      "viewportHeight": 890,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.36-inch 1.5K LTPO OLED"
+    },
+    {
+      "id": "xiaomi-14t-pro",
+      "name": "Xiaomi 14T Pro",
+      "manufacturer": "Xiaomi",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Xiaomi T Series",
+      "viewportWidth": 407,
+      "viewportHeight": 904,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.67-inch 144Hz 1.5K AMOLED"
+    },
+    {
+      "id": "xiaomi-13-pro",
+      "name": "Xiaomi 13 Pro",
+      "manufacturer": "Xiaomi",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Xiaomi 13 Series",
+      "viewportWidth": 412,
+      "viewportHeight": 915,
+      "dpr": 3.5,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.73-inch WQHD+ OLED"
+    },
+    {
+      "id": "xiaomi-13t",
+      "name": "Xiaomi 13T",
+      "manufacturer": "Xiaomi",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Xiaomi T Series",
+      "viewportWidth": 407,
+      "viewportHeight": 904,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.67-inch CrystalRes AMOLED"
+    },
+    {
+      "id": "redmi-note-14-pro-plus",
+      "name": "Redmi Note 14 Pro+ 5G",
+      "manufacturer": "Redmi",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Redmi Note 14 Series",
+      "viewportWidth": 407,
+      "viewportHeight": 904,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.67-inch 1.5K curved AMOLED"
+    },
+    {
+      "id": "redmi-note-14",
+      "name": "Redmi Note 14 5G",
+      "manufacturer": "Redmi",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Redmi Note 14 Series",
+      "viewportWidth": 393,
+      "viewportHeight": 873,
+      "dpr": 2.75,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.67-inch FHD+ 120Hz OLED"
+    },
+    {
+      "id": "redmi-note-13-pro-plus",
+      "name": "Redmi Note 13 Pro+ 5G",
+      "manufacturer": "Redmi",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Redmi Note 13 Series",
+      "viewportWidth": 407,
+      "viewportHeight": 904,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.67-inch 1.5K CrystalRes AMOLED"
+    },
+    {
+      "id": "redmi-note-13",
+      "name": "Redmi Note 13",
+      "manufacturer": "Redmi",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Redmi Note 13 Series",
+      "viewportWidth": 393,
+      "viewportHeight": 873,
+      "dpr": 2.75,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.67-inch FHD+ AMOLED (2400x1080 @2.75x)"
+    },
+    {
+      "id": "redmi-k80-pro",
+      "name": "Redmi K80 Pro",
+      "manufacturer": "Redmi",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Redmi K Series",
+      "viewportWidth": 412,
+      "viewportHeight": 915,
+      "dpr": 3.5,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.67-inch 2K 120Hz OLED"
+    },
+    {
+      "id": "redmi-13c",
+      "name": "Redmi 13C",
+      "manufacturer": "Redmi",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Redmi Entry Series",
+      "viewportWidth": 360,
+      "viewportHeight": 800,
+      "dpr": 2,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "notch",
+      "notes": "6.74-inch HD+ budget viewport (1600x720 @2x)"
+    },
+    {
+      "id": "poco-f6-pro",
+      "name": "POCO F6 Pro",
+      "manufacturer": "POCO",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "POCO F Series",
+      "viewportWidth": 412,
+      "viewportHeight": 915,
+      "dpr": 3.5,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.67-inch WQHD+ Flow AMOLED"
+    },
+    {
+      "id": "poco-f6",
+      "name": "POCO F6",
+      "manufacturer": "POCO",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "POCO F Series",
+      "viewportWidth": 407,
+      "viewportHeight": 904,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.67-inch 1.5K CrystalRes Flow AMOLED"
+    },
+    {
+      "id": "poco-x7-pro",
+      "name": "POCO X7 Pro",
+      "manufacturer": "POCO",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "POCO X Series",
+      "viewportWidth": 407,
+      "viewportHeight": 904,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.67-inch 1.5K 120Hz AMOLED"
+    },
+    {
+      "id": "poco-x6-pro",
+      "name": "POCO X6 Pro",
+      "manufacturer": "POCO",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "POCO X Series",
+      "viewportWidth": 407,
+      "viewportHeight": 904,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.67-inch 120Hz Flow AMOLED"
+    },
+    {
+      "id": "poco-m6-pro",
+      "name": "POCO M6 Pro",
+      "manufacturer": "POCO",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "POCO M Series",
+      "viewportWidth": 393,
+      "viewportHeight": 873,
+      "dpr": 2.75,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.67-inch FHD+ Flow AMOLED"
+    },
+    {
+      "id": "motorola-edge-50-ultra",
+      "name": "Motorola Edge 50 Ultra",
+      "manufacturer": "Motorola",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Motorola Edge Series",
+      "viewportWidth": 412,
+      "viewportHeight": 915,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.7-inch Super HD (1220p) pOLED 144Hz"
+    },
+    {
+      "id": "motorola-edge-50-pro",
+      "name": "Motorola Edge 50 Pro",
+      "manufacturer": "Motorola",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Motorola Edge Series",
+      "viewportWidth": 412,
+      "viewportHeight": 915,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.7-inch pOLED 144Hz"
+    },
+    {
+      "id": "motorola-edge-2024",
+      "name": "Motorola Edge (2024)",
+      "manufacturer": "Motorola",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Motorola Edge Series",
+      "viewportWidth": 412,
+      "viewportHeight": 915,
+      "dpr": 2.625,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.6-inch endless-edge pOLED"
+    },
+    {
+      "id": "motorola-moto-g85",
+      "name": "Moto G85 5G",
+      "manufacturer": "Motorola",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Moto G Series",
+      "viewportWidth": 412,
+      "viewportHeight": 915,
+      "dpr": 2.625,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.67-inch pOLED 120Hz"
+    },
+    {
+      "id": "motorola-moto-g-power-2024",
+      "name": "Moto G Power 5G (2024)",
+      "manufacturer": "Motorola",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Moto G Series",
+      "viewportWidth": 412,
+      "viewportHeight": 915,
+      "dpr": 2.625,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.7-inch FHD+ 120Hz LCD"
+    },
+    {
+      "id": "motorola-moto-g-stylus-2024",
+      "name": "Moto G Stylus 5G (2024)",
+      "manufacturer": "Motorola",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Moto G Series",
+      "viewportWidth": 412,
+      "viewportHeight": 915,
+      "dpr": 2.625,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.7-inch pOLED stylus handset"
+    },
+    {
+      "id": "nothing-phone-3a-pro",
+      "name": "Nothing Phone (3a) Pro",
+      "manufacturer": "Nothing",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Nothing Phone Series",
+      "viewportWidth": 412,
+      "viewportHeight": 919,
+      "dpr": 2.625,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.77-inch flexible AMOLED 120Hz"
+    },
+    {
+      "id": "nothing-phone-2",
+      "name": "Nothing Phone (2)",
+      "manufacturer": "Nothing",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Nothing Phone Series",
+      "viewportWidth": 412,
+      "viewportHeight": 919,
+      "dpr": 2.625,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.7-inch LTPO OLED (2412x1080)"
+    },
+    {
+      "id": "nothing-phone-2a-plus",
+      "name": "Nothing Phone (2a) Plus",
+      "manufacturer": "Nothing",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Nothing Phone Series",
+      "viewportWidth": 412,
+      "viewportHeight": 919,
+      "dpr": 2.625,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.7-inch flexible AMOLED"
+    },
+    {
+      "id": "nothing-phone-2a",
+      "name": "Nothing Phone (2a)",
+      "manufacturer": "Nothing",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Nothing Phone Series",
+      "viewportWidth": 412,
+      "viewportHeight": 919,
+      "dpr": 2.625,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.7-inch 120Hz AMOLED"
+    },
+    {
+      "id": "nothing-cmf-phone-1",
+      "name": "CMF Phone 1",
+      "manufacturer": "Nothing",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "CMF Series",
+      "viewportWidth": 412,
+      "viewportHeight": 915,
+      "dpr": 2.625,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.67-inch Super AMOLED modular phone"
+    },
+    {
+      "id": "oppo-find-x8-pro",
+      "name": "OPPO Find X8 Pro",
+      "manufacturer": "OPPO",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Find X Series",
+      "viewportWidth": 422,
+      "viewportHeight": 936,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.78-inch LTPO AMOLED quad-micro-curved"
+    },
+    {
+      "id": "oppo-find-x8",
+      "name": "OPPO Find X8",
+      "manufacturer": "OPPO",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Find X Series",
+      "viewportWidth": 410,
+      "viewportHeight": 910,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.59-inch 1.5K AMOLED"
+    },
+    {
+      "id": "oppo-find-x7-ultra",
+      "name": "OPPO Find X7 Ultra",
+      "manufacturer": "OPPO",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Find X Series",
+      "viewportWidth": 422,
+      "viewportHeight": 938,
+      "dpr": 3.4,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.82-inch QHD+ LTPO AMOLED"
+    },
+    {
+      "id": "oppo-reno-13-pro",
+      "name": "OPPO Reno13 Pro",
+      "manufacturer": "OPPO",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Reno Series",
+      "viewportWidth": 424,
+      "viewportHeight": 940,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.83-inch 1.5K 120Hz AMOLED"
+    },
+    {
+      "id": "oppo-reno-12-pro",
+      "name": "OPPO Reno12 Pro 5G",
+      "manufacturer": "OPPO",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Reno Series",
+      "viewportWidth": 412,
+      "viewportHeight": 919,
+      "dpr": 2.625,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.7-inch FHD+ quad-curved AMOLED"
+    },
+    {
+      "id": "oppo-a79",
+      "name": "OPPO A79 5G",
+      "manufacturer": "OPPO",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "OPPO A Series",
+      "viewportWidth": 393,
+      "viewportHeight": 873,
+      "dpr": 2.75,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.72-inch FHD+ Sunlight display"
+    },
+    {
+      "id": "vivo-x200-pro",
+      "name": "Vivo X200 Pro",
+      "manufacturer": "Vivo",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Vivo X Series",
+      "viewportWidth": 420,
+      "viewportHeight": 933,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.78-inch ZEISS Master Color LTPO AMOLED"
+    },
+    {
+      "id": "vivo-x200",
+      "name": "Vivo X200",
+      "manufacturer": "Vivo",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Vivo X Series",
+      "viewportWidth": 420,
+      "viewportHeight": 933,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.67-inch 1.5K LTPS AMOLED"
+    },
+    {
+      "id": "vivo-x100-ultra",
+      "name": "Vivo X100 Ultra",
+      "manufacturer": "Vivo",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Vivo X Series",
+      "viewportWidth": 422,
+      "viewportHeight": 938,
+      "dpr": 3.4,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.78-inch WQHD+ E7 LTPO AMOLED"
+    },
+    {
+      "id": "vivo-x100-pro",
+      "name": "Vivo X100 Pro",
+      "manufacturer": "Vivo",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Vivo X Series",
+      "viewportWidth": 420,
+      "viewportHeight": 933,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.78-inch 1.5K LTPO AMOLED"
+    },
+    {
+      "id": "vivo-v40-pro",
+      "name": "Vivo V40 Pro",
+      "manufacturer": "Vivo",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Vivo V Series",
+      "viewportWidth": 420,
+      "viewportHeight": 933,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.78-inch 1.5K curved AMOLED"
+    },
+    {
+      "id": "vivo-iqoo-13",
+      "name": "Vivo iQOO 13",
+      "manufacturer": "Vivo",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "iQOO Series",
+      "viewportWidth": 422,
+      "viewportHeight": 938,
+      "dpr": 3.4,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.82-inch 2K 144Hz LTPO OLED"
+    },
+    {
+      "id": "huawei-pura-70-ultra",
+      "name": "Huawei Pura 70 Ultra",
+      "manufacturer": "Huawei",
+      "platform": "HarmonyOS",
+      "category": "Android Phones",
+      "family": "Pura 70 Series",
+      "viewportWidth": 420,
+      "viewportHeight": 948,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.8-inch LTPO OLED (2844x1260)"
+    },
+    {
+      "id": "huawei-pura-70",
+      "name": "Huawei Pura 70",
+      "manufacturer": "Huawei",
+      "platform": "HarmonyOS",
+      "category": "Android Phones",
+      "family": "Pura 70 Series",
+      "viewportWidth": 418,
+      "viewportHeight": 920,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.6-inch flat LTPO OLED"
+    },
+    {
+      "id": "huawei-mate-70-pro",
+      "name": "Huawei Mate 70 Pro",
+      "manufacturer": "Huawei",
+      "platform": "HarmonyOS",
+      "category": "Android Phones",
+      "family": "Mate 70 Series",
+      "viewportWidth": 428,
+      "viewportHeight": 944,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.9-inch LTPO OLED flagship"
+    },
+    {
+      "id": "huawei-mate-60-pro",
+      "name": "Huawei Mate 60 Pro",
+      "manufacturer": "Huawei",
+      "platform": "HarmonyOS",
+      "category": "Android Phones",
+      "family": "Mate 60 Series",
+      "viewportWidth": 420,
+      "viewportHeight": 907,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.82-inch LTPO OLED triple punch-hole"
+    },
+    {
+      "id": "huawei-nova-13-pro",
+      "name": "Huawei nova 13 Pro",
+      "manufacturer": "Huawei",
+      "platform": "HarmonyOS",
+      "category": "Android Phones",
+      "family": "nova Series",
+      "viewportWidth": 408,
+      "viewportHeight": 925,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.76-inch LTPO OLED"
+    },
+    {
+      "id": "honor-magic7-pro",
+      "name": "Honor Magic7 Pro",
+      "manufacturer": "Honor",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Magic Series",
+      "viewportWidth": 427,
+      "viewportHeight": 936,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.8-inch LTPO OLED Natural Light Eye Comfort"
+    },
+    {
+      "id": "honor-magic6-pro",
+      "name": "Honor Magic6 Pro",
+      "manufacturer": "Honor",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Magic Series",
+      "viewportWidth": 427,
+      "viewportHeight": 933,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.8-inch LTPO OLED (2800x1280)"
+    },
+    {
+      "id": "honor-200-pro",
+      "name": "Honor 200 Pro",
+      "manufacturer": "Honor",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Honor N Series",
+      "viewportWidth": 408,
+      "viewportHeight": 893,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.78-inch quad-curved OLED"
+    },
+    {
+      "id": "honor-200",
+      "name": "Honor 200",
+      "manufacturer": "Honor",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Honor N Series",
+      "viewportWidth": 400,
+      "viewportHeight": 888,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.7-inch 1.5K AMOLED"
+    },
+    {
+      "id": "honor-x9b",
+      "name": "Honor X9b 5G",
+      "manufacturer": "Honor",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Honor X Series",
+      "viewportWidth": 400,
+      "viewportHeight": 884,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.78-inch curved AMOLED"
+    },
+    {
+      "id": "sony-xperia-1-vi",
+      "name": "Sony Xperia 1 VI",
+      "manufacturer": "Sony",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Xperia 1 Series",
+      "viewportWidth": 412,
+      "viewportHeight": 892,
+      "dpr": 2.625,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "6.5-inch 19.5:9 Bravia LTPO OLED bezel-top screen"
+    },
+    {
+      "id": "sony-xperia-1-v",
+      "name": "Sony Xperia 1 V",
+      "manufacturer": "Sony",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Xperia 1 Series",
+      "viewportWidth": 411,
+      "viewportHeight": 960,
+      "dpr": 4,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "6.5-inch 21:9 4K HDR OLED cinema aspect ratio"
+    },
+    {
+      "id": "sony-xperia-5-v",
+      "name": "Sony Xperia 5 V",
+      "manufacturer": "Sony",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Xperia 5 Series",
+      "viewportWidth": 384,
+      "viewportHeight": 896,
+      "dpr": 2.81,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "6.1-inch 21:9 compact tall OLED"
+    },
+    {
+      "id": "sony-xperia-10-vi",
+      "name": "Sony Xperia 10 VI",
+      "manufacturer": "Sony",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Xperia 10 Series",
+      "viewportWidth": 384,
+      "viewportHeight": 896,
+      "dpr": 2.81,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "none",
+      "notes": "6.1-inch 21:9 Triluminos OLED"
+    },
+    {
+      "id": "asus-zenfone-11-ultra",
+      "name": "ASUS Zenfone 11 Ultra",
+      "manufacturer": "ASUS",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Zenfone Series",
+      "viewportWidth": 412,
+      "viewportHeight": 915,
+      "dpr": 2.625,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.78-inch LTPO AMOLED 144Hz"
+    },
+    {
+      "id": "asus-zenfone-10",
+      "name": "ASUS Zenfone 10",
+      "manufacturer": "ASUS",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Zenfone Series",
+      "viewportWidth": 393,
+      "viewportHeight": 873,
+      "dpr": 2.75,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "5.9-inch compact flagship AMOLED"
+    },
+    {
+      "id": "asus-rog-phone-9-pro",
+      "name": "ASUS ROG Phone 9 Pro",
+      "manufacturer": "ASUS",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "ROG Phone Series",
+      "viewportWidth": 412,
+      "viewportHeight": 915,
+      "dpr": 2.625,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.78-inch 185Hz Samsung E6 gaming AMOLED"
+    },
+    {
+      "id": "asus-rog-phone-8-pro",
+      "name": "ASUS ROG Phone 8 Pro",
+      "manufacturer": "ASUS",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "ROG Phone Series",
+      "viewportWidth": 412,
+      "viewportHeight": 915,
+      "dpr": 2.625,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.78-inch 165Hz LTPO AMOLED"
+    },
+    {
+      "id": "zte-axon-60-ultra",
+      "name": "ZTE Axon 60 Ultra",
+      "manufacturer": "ZTE",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Axon Series",
+      "viewportWidth": 408,
+      "viewportHeight": 933,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.78-inch 1.5K 120Hz OLED"
+    },
+    {
+      "id": "zte-axon-50-ultra",
+      "name": "ZTE Axon 50 Ultra",
+      "manufacturer": "ZTE",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Axon Series",
+      "viewportWidth": 393,
+      "viewportHeight": 873,
+      "dpr": 2.75,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.67-inch curved AMOLED"
+    },
+    {
+      "id": "zte-blade-v60",
+      "name": "ZTE Blade V60 Design",
+      "manufacturer": "ZTE",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Blade Series",
+      "viewportWidth": 360,
+      "viewportHeight": 800,
+      "dpr": 2,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.6-inch HD+ Live Island display"
+    },
+    {
+      "id": "nubia-z70-ultra",
+      "name": "Nubia Z70 Ultra",
+      "manufacturer": "Nubia",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Nubia Z Series",
+      "viewportWidth": 405,
+      "viewportHeight": 903,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "none",
+      "notes": "6.85-inch true full-screen under-display camera OLED"
+    },
+    {
+      "id": "nubia-z60-ultra",
+      "name": "Nubia Z60 Ultra",
+      "manufacturer": "Nubia",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Nubia Z Series",
+      "viewportWidth": 400,
+      "viewportHeight": 893,
+      "dpr": 2.79,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "6.8-inch AMOLED with under-display camera (no cutout)"
+    },
+    {
+      "id": "nubia-neo-2",
+      "name": "Nubia Neo 2 5G",
+      "manufacturer": "Nubia",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Nubia Neo Series",
+      "viewportWidth": 393,
+      "viewportHeight": 873,
+      "dpr": 2.75,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.72-inch 120Hz FHD+ display"
+    },
+    {
+      "id": "redmagic-10-pro",
+      "name": "RedMagic 10 Pro",
+      "manufacturer": "RedMagic",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "RedMagic Gaming",
+      "viewportWidth": 405,
+      "viewportHeight": 903,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "none",
+      "notes": "6.85-inch 144Hz BOE Q9+ notchless gaming display"
+    },
+    {
+      "id": "redmagic-9s-pro",
+      "name": "RedMagic 9S Pro",
+      "manufacturer": "RedMagic",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "RedMagic Gaming",
+      "viewportWidth": 400,
+      "viewportHeight": 893,
+      "dpr": 2.79,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "6.8-inch under-display camera gaming AMOLED"
+    },
+    {
+      "id": "redmagic-8-pro",
+      "name": "RedMagic 8 Pro",
+      "manufacturer": "RedMagic",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "RedMagic Gaming",
+      "viewportWidth": 400,
+      "viewportHeight": 893,
+      "dpr": 2.79,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "6.8-inch 120Hz full-bezel-free OLED"
+    },
+    {
+      "id": "infinix-zero-40-5g",
+      "name": "Infinix Zero 40 5G",
+      "manufacturer": "Infinix",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Infinix Zero Series",
+      "viewportWidth": 393,
+      "viewportHeight": 886,
+      "dpr": 2.75,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.78-inch 144Hz curved AMOLED"
+    },
+    {
+      "id": "infinix-gt-20-pro",
+      "name": "Infinix GT 20 Pro",
+      "manufacturer": "Infinix",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Infinix GT Series",
+      "viewportWidth": 393,
+      "viewportHeight": 886,
+      "dpr": 2.75,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.78-inch bezel-less 144Hz AMOLED"
+    },
+    {
+      "id": "infinix-note-40-pro",
+      "name": "Infinix Note 40 Pro",
+      "manufacturer": "Infinix",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Infinix Note Series",
+      "viewportWidth": 393,
+      "viewportHeight": 886,
+      "dpr": 2.75,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.78-inch FHD+ curved AMOLED"
+    },
+    {
+      "id": "infinix-hot-50-pro",
+      "name": "Infinix Hot 50 Pro+",
+      "manufacturer": "Infinix",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Infinix Hot Series",
+      "viewportWidth": 393,
+      "viewportHeight": 886,
+      "dpr": 2.75,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.78-inch slim 3D-curved AMOLED"
+    },
+    {
+      "id": "tecno-camon-30-premier",
+      "name": "Tecno Camon 30 Premier 5G",
+      "manufacturer": "Tecno",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Camon Series",
+      "viewportWidth": 420,
+      "viewportHeight": 928,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.77-inch 1.5K LTPO AMOLED"
+    },
+    {
+      "id": "tecno-camon-30-pro",
+      "name": "Tecno Camon 30 Pro",
+      "manufacturer": "Tecno",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Camon Series",
+      "viewportWidth": 393,
+      "viewportHeight": 886,
+      "dpr": 2.75,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.78-inch 144Hz AMOLED"
+    },
+    {
+      "id": "tecno-pova-6-pro",
+      "name": "Tecno Pova 6 Pro 5G",
+      "manufacturer": "Tecno",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Pova Series",
+      "viewportWidth": 393,
+      "viewportHeight": 886,
+      "dpr": 2.75,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.78-inch FHD+ AMOLED"
+    },
+    {
+      "id": "tecno-spark-30-pro",
+      "name": "Tecno Spark 30 Pro",
+      "manufacturer": "Tecno",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Spark Series",
+      "viewportWidth": 393,
+      "viewportHeight": 886,
+      "dpr": 2.75,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.78-inch 120Hz AMOLED"
+    },
+    {
+      "id": "tcl-50-pro-nxtpaper",
+      "name": "TCL 50 Pro NXTPAPER 5G",
+      "manufacturer": "TCL",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "NXTPAPER Phones",
+      "viewportWidth": 393,
+      "viewportHeight": 896,
+      "dpr": 2.75,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.8-inch matte anti-glare NXTPAPER FHD+"
+    },
+    {
+      "id": "tcl-40-nxtpaper",
+      "name": "TCL 40 NXTPAPER",
+      "manufacturer": "TCL",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "NXTPAPER Phones",
+      "viewportWidth": 393,
+      "viewportHeight": 896,
+      "dpr": 2.75,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.78-inch paper-like FHD+ LCD"
+    },
+    {
+      "id": "nokia-xr21",
+      "name": "Nokia XR21",
+      "manufacturer": "Nokia",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Nokia Rugged Series",
+      "viewportWidth": 393,
+      "viewportHeight": 873,
+      "dpr": 2.75,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.49-inch FHD+ 120Hz Gorilla Glass Victus rugged phone"
+    },
+    {
+      "id": "nokia-g60-5g",
+      "name": "Nokia G60 5G",
+      "manufacturer": "Nokia",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Nokia G Series",
+      "viewportWidth": 393,
+      "viewportHeight": 876,
+      "dpr": 2.75,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "notch",
+      "notes": "6.58-inch FHD+ 120Hz display"
+    },
+    {
+      "id": "nokia-g42-5g",
+      "name": "Nokia G42 5G",
+      "manufacturer": "Nokia",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Nokia G Series",
+      "viewportWidth": 360,
+      "viewportHeight": 806,
+      "dpr": 2,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "notch",
+      "notes": "6.56-inch HD+ QuickFix repairable phone"
+    },
+    {
+      "id": "fairphone-5",
+      "name": "Fairphone 5",
+      "manufacturer": "Fairphone",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Fairphone Modular",
+      "viewportWidth": 408,
+      "viewportHeight": 900,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.46-inch 90Hz OLED sustainable modular smartphone (2700x1224)"
+    },
+    {
+      "id": "fairphone-4",
+      "name": "Fairphone 4",
+      "manufacturer": "Fairphone",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "Fairphone Modular",
+      "viewportWidth": 393,
+      "viewportHeight": 851,
+      "dpr": 2.75,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "notch",
+      "notes": "6.3-inch FHD+ IPS LCD"
+    },
+    {
+      "id": "lenovo-thinkphone-25",
+      "name": "Lenovo ThinkPhone 25",
+      "manufacturer": "Lenovo",
+      "platform": "Android",
+      "category": "Android Phones",
+      "family": "ThinkPhone Series",
+      "viewportWidth": 407,
+      "viewportHeight": 890,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.36-inch pOLED enterprise Android phone"
+    },
+    {
+      "id": "samsung-galaxy-z-fold6-unfolded",
+      "name": "Galaxy Z Fold6 (Main Unfolded)",
+      "manufacturer": "Samsung",
+      "platform": "Android",
+      "category": "Foldables",
+      "family": "Galaxy Z Fold",
+      "viewportWidth": 720,
+      "viewportHeight": 845,
+      "dpr": 2.625,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "unfolded",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "7.6-inch QXGA+ Dynamic AMOLED 2X inner foldable screen"
+    },
+    {
+      "id": "samsung-galaxy-z-fold6-folded",
+      "name": "Galaxy Z Fold6 (Cover Folded)",
+      "manufacturer": "Samsung",
+      "platform": "Android",
+      "category": "Foldables",
+      "family": "Galaxy Z Fold",
+      "viewportWidth": 344,
+      "viewportHeight": 825,
+      "dpr": 2.81,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "folded",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.3-inch 22.1:9 Dynamic AMOLED 2X cover display"
+    },
+    {
+      "id": "samsung-galaxy-z-fold-se-unfolded",
+      "name": "Galaxy Z Fold Special Edition (Unfolded)",
+      "manufacturer": "Samsung",
+      "platform": "Android",
+      "category": "Foldables",
+      "family": "Galaxy Z Fold",
+      "viewportWidth": 760,
+      "viewportHeight": 852,
+      "dpr": 2.625,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "unfolded",
+      "accuracy": "estimated",
+      "cutout": "none",
+      "notes": "8.0-inch wider inner foldable AMOLED"
+    },
+    {
+      "id": "samsung-galaxy-z-fold5-unfolded",
+      "name": "Galaxy Z Fold5 (Main Unfolded)",
+      "manufacturer": "Samsung",
+      "platform": "Android",
+      "category": "Foldables",
+      "family": "Galaxy Z Fold",
+      "viewportWidth": 690,
+      "viewportHeight": 829,
+      "dpr": 2.625,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "unfolded",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "7.6-inch Dynamic AMOLED 2X inner viewport"
+    },
+    {
+      "id": "samsung-galaxy-z-fold5-folded",
+      "name": "Galaxy Z Fold5 (Cover Folded)",
+      "manufacturer": "Samsung",
+      "platform": "Android",
+      "category": "Foldables",
+      "family": "Galaxy Z Fold",
+      "viewportWidth": 344,
+      "viewportHeight": 882,
+      "dpr": 2.625,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "folded",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.2-inch narrow tall 23.1:9 cover viewport"
+    },
+    {
+      "id": "samsung-galaxy-z-flip6-unfolded",
+      "name": "Galaxy Z Flip6 (Main Unfolded)",
+      "manufacturer": "Samsung",
+      "platform": "Android",
+      "category": "Foldables",
+      "family": "Galaxy Z Flip",
+      "viewportWidth": 412,
+      "viewportHeight": 919,
+      "dpr": 2.625,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "unfolded",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.7-inch 22:9 FHD+ clamshell unfolded screen"
+    },
+    {
+      "id": "samsung-galaxy-z-flip5-unfolded",
+      "name": "Galaxy Z Flip5 (Main Unfolded)",
+      "manufacturer": "Samsung",
+      "platform": "Android",
+      "category": "Foldables",
+      "family": "Galaxy Z Flip",
+      "viewportWidth": 412,
+      "viewportHeight": 919,
+      "dpr": 2.625,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "unfolded",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.7-inch Dynamic AMOLED 2X clamshell"
+    },
+    {
+      "id": "google-pixel-9-pro-fold-unfolded",
+      "name": "Pixel 9 Pro Fold (Inner Unfolded)",
+      "manufacturer": "Google",
+      "platform": "Android",
+      "category": "Foldables",
+      "family": "Pixel Fold Series",
+      "viewportWidth": 720,
+      "viewportHeight": 748,
+      "dpr": 2.88,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "unfolded",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "8.0-inch Super Actua Flex near-square inner OLED"
+    },
+    {
+      "id": "google-pixel-9-pro-fold-folded",
+      "name": "Pixel 9 Pro Fold (Cover Folded)",
+      "manufacturer": "Google",
+      "platform": "Android",
+      "category": "Foldables",
+      "family": "Pixel Fold Series",
+      "viewportWidth": 412,
+      "viewportHeight": 923,
+      "dpr": 2.625,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "folded",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.3-inch 20:9 Actua OLED standard-width cover screen"
+    },
+    {
+      "id": "google-pixel-fold-unfolded",
+      "name": "Google Pixel Fold (Inner Unfolded)",
+      "manufacturer": "Google",
+      "platform": "Android",
+      "category": "Foldables",
+      "family": "Pixel Fold Series",
+      "viewportWidth": 786,
+      "viewportHeight": 654,
+      "dpr": 2.75,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "landscape",
+      "foldState": "unfolded",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "7.6-inch landscape-first inner OLED"
+    },
+    {
+      "id": "google-pixel-fold-folded",
+      "name": "Google Pixel Fold (Cover Folded)",
+      "manufacturer": "Google",
+      "platform": "Android",
+      "category": "Foldables",
+      "family": "Pixel Fold Series",
+      "viewportWidth": 380,
+      "viewportHeight": 725,
+      "dpr": 2.88,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "folded",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "5.8-inch wide passport-style cover OLED"
+    },
+    {
+      "id": "oneplus-open-unfolded",
+      "name": "OnePlus Open (Main Unfolded)",
+      "manufacturer": "OnePlus",
+      "platform": "Android",
+      "category": "Foldables",
+      "family": "OnePlus Open",
+      "viewportWidth": 756,
+      "viewportHeight": 814,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "unfolded",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "7.82-inch 2K Flexi-fluid LTPO3 AMOLED"
+    },
+    {
+      "id": "oneplus-open-folded",
+      "name": "OnePlus Open (Cover Folded)",
+      "manufacturer": "OnePlus",
+      "platform": "Android",
+      "category": "Foldables",
+      "family": "OnePlus Open",
+      "viewportWidth": 372,
+      "viewportHeight": 828,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "folded",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.31-inch 20:9 Super Fluid AMOLED cover screen"
+    },
+    {
+      "id": "honor-magic-v3-unfolded",
+      "name": "Honor Magic V3 (Inner Unfolded)",
+      "manufacturer": "Honor",
+      "platform": "Android",
+      "category": "Foldables",
+      "family": "Magic V Series",
+      "viewportWidth": 718,
+      "viewportHeight": 781,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "unfolded",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "7.92-inch ultra-thin foldable LTPO OLED"
+    },
+    {
+      "id": "honor-magic-v3-folded",
+      "name": "Honor Magic V3 (Cover Folded)",
+      "manufacturer": "Honor",
+      "platform": "Android",
+      "category": "Foldables",
+      "family": "Magic V Series",
+      "viewportWidth": 390,
+      "viewportHeight": 790,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "folded",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.43-inch 20:9 LTPO OLED cover display"
+    },
+    {
+      "id": "honor-magic-v2-unfolded",
+      "name": "Honor Magic V2 (Inner Unfolded)",
+      "manufacturer": "Honor",
+      "platform": "Android",
+      "category": "Foldables",
+      "family": "Magic V Series",
+      "viewportWidth": 718,
+      "viewportHeight": 781,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "unfolded",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "7.92-inch foldable OLED"
+    },
+    {
+      "id": "oppo-find-n3-unfolded",
+      "name": "OPPO Find N3 (Inner Unfolded)",
+      "manufacturer": "OPPO",
+      "platform": "Android",
+      "category": "Foldables",
+      "family": "Find N Series",
+      "viewportWidth": 756,
+      "viewportHeight": 814,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "unfolded",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "7.82-inch LTPO OLED inner screen"
+    },
+    {
+      "id": "oppo-find-n3-flip-unfolded",
+      "name": "OPPO Find N3 Flip (Unfolded)",
+      "manufacturer": "OPPO",
+      "platform": "Android",
+      "category": "Foldables",
+      "family": "Find N Series",
+      "viewportWidth": 412,
+      "viewportHeight": 922,
+      "dpr": 2.625,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "unfolded",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.8-inch LTPO AMOLED clamshell"
+    },
+    {
+      "id": "vivo-x-fold3-pro-unfolded",
+      "name": "Vivo X Fold3 Pro (Inner Unfolded)",
+      "manufacturer": "Vivo",
+      "platform": "Android",
+      "category": "Foldables",
+      "family": "Vivo X Fold",
+      "viewportWidth": 733,
+      "viewportHeight": 826,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "unfolded",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "8.03-inch E7 LTPO AMOLED large foldable"
+    },
+    {
+      "id": "vivo-x-fold3-pro-folded",
+      "name": "Vivo X Fold3 Pro (Cover Folded)",
+      "manufacturer": "Vivo",
+      "platform": "Android",
+      "category": "Foldables",
+      "family": "Vivo X Fold",
+      "viewportWidth": 391,
+      "viewportHeight": 914,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "folded",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.53-inch AMOLED cover screen"
+    },
+    {
+      "id": "xiaomi-mix-fold-4-unfolded",
+      "name": "Xiaomi Mix Fold 4 (Inner Unfolded)",
+      "manufacturer": "Xiaomi",
+      "platform": "Android",
+      "category": "Foldables",
+      "family": "Mix Fold Series",
+      "viewportWidth": 742,
+      "viewportHeight": 829,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "unfolded",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "7.98-inch LTPO OLED ultra-slim foldable"
+    },
+    {
+      "id": "xiaomi-mix-flip-unfolded",
+      "name": "Xiaomi Mix Flip (Unfolded)",
+      "manufacturer": "Xiaomi",
+      "platform": "Android",
+      "category": "Foldables",
+      "family": "Mix Flip Series",
+      "viewportWidth": 408,
+      "viewportHeight": 970,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "unfolded",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.86-inch 1.5K clamshell foldable"
+    },
+    {
+      "id": "motorola-razr-50-ultra-unfolded",
+      "name": "Motorola Razr 50 Ultra / Razr+ (Unfolded)",
+      "manufacturer": "Motorola",
+      "platform": "Android",
+      "category": "Foldables",
+      "family": "Motorola Razr",
+      "viewportWidth": 412,
+      "viewportHeight": 969,
+      "dpr": 2.625,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "unfolded",
+      "accuracy": "verified",
+      "cutout": "punch-hole",
+      "notes": "6.9-inch 22:9 LTPO pOLED 165Hz clamshell"
+    },
+    {
+      "id": "motorola-razr-50-ultra-cover",
+      "name": "Motorola Razr 50 Ultra (External Cover)",
+      "manufacturer": "Motorola",
+      "platform": "Android",
+      "category": "Foldables",
+      "family": "Motorola Razr",
+      "viewportWidth": 412,
+      "viewportHeight": 424,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "folded",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "4.0-inch edge-to-edge external clamshell app display"
+    },
+    {
+      "id": "huawei-mate-xt-trifold-unfolded",
+      "name": "Huawei Mate XT Ultimate (Tri-Fold Full)",
+      "manufacturer": "Huawei",
+      "platform": "HarmonyOS",
+      "category": "Foldables",
+      "family": "Mate X Series",
+      "viewportWidth": 1060,
+      "viewportHeight": 745,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "landscape",
+      "foldState": "unfolded",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "10.2-inch fully unfolded tri-fold tablet viewport"
+    },
+    {
+      "id": "huawei-mate-x6-unfolded",
+      "name": "Huawei Mate X6 (Inner Unfolded)",
+      "manufacturer": "Huawei",
+      "platform": "HarmonyOS",
+      "category": "Foldables",
+      "family": "Mate X Series",
+      "viewportWidth": 739,
+      "viewportHeight": 813,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "unfolded",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "7.93-inch LTPO OLED foldable"
+    },
+    {
+      "id": "tecno-phantom-v-fold2-unfolded",
+      "name": "Tecno Phantom V Fold2 (Inner Unfolded)",
+      "manufacturer": "Tecno",
+      "platform": "Android",
+      "category": "Foldables",
+      "family": "Phantom V Series",
+      "viewportWidth": 666,
+      "viewportHeight": 765,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "unfolded",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "7.85-inch 2K+ LTPO AMOLED"
+    },
+    {
+      "id": "zte-nubia-flip-5g",
+      "name": "Nubia Flip 5G (Unfolded)",
+      "manufacturer": "Nubia",
+      "platform": "Android",
+      "category": "Foldables",
+      "family": "Nubia Flip",
+      "viewportWidth": 412,
+      "viewportHeight": 956,
+      "dpr": 2.625,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "unfolded",
+      "accuracy": "estimated",
+      "cutout": "punch-hole",
+      "notes": "6.9-inch 120Hz OLED clamshell"
+    },
+    {
+      "id": "samsung-galaxy-tab-s10-ultra",
+      "name": "Samsung Galaxy Tab S10 Ultra",
+      "manufacturer": "Samsung",
+      "platform": "Android",
+      "category": "Android Tablets",
+      "family": "Galaxy Tab S10 Series",
+      "viewportWidth": 924,
+      "viewportHeight": 1480,
+      "dpr": 2,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "notch",
+      "notes": "14.6-inch Dynamic AMOLED 2X expansive tablet (2960x1848)"
+    },
+    {
+      "id": "samsung-galaxy-tab-s10-plus",
+      "name": "Samsung Galaxy Tab S10+",
+      "manufacturer": "Samsung",
+      "platform": "Android",
+      "category": "Android Tablets",
+      "family": "Galaxy Tab S10 Series",
+      "viewportWidth": 876,
+      "viewportHeight": 1400,
+      "dpr": 2,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "12.4-inch Dynamic AMOLED 2X (2800x1752)"
+    },
+    {
+      "id": "samsung-galaxy-tab-s9-ultra",
+      "name": "Samsung Galaxy Tab S9 Ultra",
+      "manufacturer": "Samsung",
+      "platform": "Android",
+      "category": "Android Tablets",
+      "family": "Galaxy Tab S9 Series",
+      "viewportWidth": 924,
+      "viewportHeight": 1480,
+      "dpr": 2,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "notch",
+      "notes": "14.6-inch Dynamic AMOLED 2X"
+    },
+    {
+      "id": "samsung-galaxy-tab-s9",
+      "name": "Samsung Galaxy Tab S9",
+      "manufacturer": "Samsung",
+      "platform": "Android",
+      "category": "Android Tablets",
+      "family": "Galaxy Tab S9 Series",
+      "viewportWidth": 800,
+      "viewportHeight": 1280,
+      "dpr": 2,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "11.0-inch Dynamic AMOLED 2X (2560x1600 @2x)"
+    },
+    {
+      "id": "samsung-galaxy-tab-s9-fe",
+      "name": "Samsung Galaxy Tab S9 FE",
+      "manufacturer": "Samsung",
+      "platform": "Android",
+      "category": "Android Tablets",
+      "family": "Galaxy Tab S9 Series",
+      "viewportWidth": 720,
+      "viewportHeight": 1152,
+      "dpr": 2,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "10.9-inch 90Hz IPS LCD"
+    },
+    {
+      "id": "samsung-galaxy-tab-a9-plus",
+      "name": "Samsung Galaxy Tab A9+",
+      "manufacturer": "Samsung",
+      "platform": "Android",
+      "category": "Android Tablets",
+      "family": "Galaxy Tab A Series",
+      "viewportWidth": 600,
+      "viewportHeight": 960,
+      "dpr": 2,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "11.0-inch 16:10 mainstream Android tablet (1920x1200)"
+    },
+    {
+      "id": "samsung-galaxy-tab-a9",
+      "name": "Samsung Galaxy Tab A9",
+      "manufacturer": "Samsung",
+      "platform": "Android",
+      "category": "Android Tablets",
+      "family": "Galaxy Tab A Series",
+      "viewportWidth": 534,
+      "viewportHeight": 893,
+      "dpr": 1.5,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "none",
+      "notes": "8.7-inch compact Android tablet"
+    },
+    {
+      "id": "google-pixel-tablet",
+      "name": "Google Pixel Tablet",
+      "manufacturer": "Google",
+      "platform": "Android",
+      "category": "Android Tablets",
+      "family": "Pixel Tablet",
+      "viewportWidth": 800,
+      "viewportHeight": 1280,
+      "dpr": 2,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "10.95-inch 16:10 LCD (2560x1600 @2x)"
+    },
+    {
+      "id": "oneplus-pad-2",
+      "name": "OnePlus Pad 2",
+      "manufacturer": "OnePlus",
+      "platform": "Android",
+      "category": "Android Tablets",
+      "family": "OnePlus Pad",
+      "viewportWidth": 840,
+      "viewportHeight": 1200,
+      "dpr": 2.5,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "none",
+      "notes": "12.1-inch 7:5 ReadFit 3K 144Hz display"
+    },
+    {
+      "id": "oneplus-pad",
+      "name": "OnePlus Pad",
+      "manufacturer": "OnePlus",
+      "platform": "Android",
+      "category": "Android Tablets",
+      "family": "OnePlus Pad",
+      "viewportWidth": 800,
+      "viewportHeight": 1120,
+      "dpr": 2.5,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "11.61-inch 7:5 ReadFit 144Hz LCD"
+    },
+    {
+      "id": "xiaomi-pad-7-pro",
+      "name": "Xiaomi Pad 7 Pro",
+      "manufacturer": "Xiaomi",
+      "platform": "Android",
+      "category": "Android Tablets",
+      "family": "Xiaomi Pad Series",
+      "viewportWidth": 854,
+      "viewportHeight": 1280,
+      "dpr": 2.5,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "none",
+      "notes": "11.2-inch 3:2 3.2K 144Hz tablet"
+    },
+    {
+      "id": "xiaomi-pad-6s-pro",
+      "name": "Xiaomi Pad 6S Pro 12.4",
+      "manufacturer": "Xiaomi",
+      "platform": "Android",
+      "category": "Android Tablets",
+      "family": "Xiaomi Pad Series",
+      "viewportWidth": 848,
+      "viewportHeight": 1272,
+      "dpr": 2.4,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "none",
+      "notes": "12.4-inch 3:2 3K productivity tablet"
+    },
+    {
+      "id": "xiaomi-pad-6",
+      "name": "Xiaomi Pad 6",
+      "manufacturer": "Xiaomi",
+      "platform": "Android",
+      "category": "Android Tablets",
+      "family": "Xiaomi Pad Series",
+      "viewportWidth": 720,
+      "viewportHeight": 1152,
+      "dpr": 2.5,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "11-inch WQHD+ 144Hz tablet"
+    },
+    {
+      "id": "redmi-pad-pro",
+      "name": "Redmi Pad Pro",
+      "manufacturer": "Redmi",
+      "platform": "Android",
+      "category": "Android Tablets",
+      "family": "Redmi Pad Series",
+      "viewportWidth": 800,
+      "viewportHeight": 1280,
+      "dpr": 2,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "12.1-inch 2.5K 120Hz tablet"
+    },
+    {
+      "id": "poco-pad",
+      "name": "POCO Pad",
+      "manufacturer": "POCO",
+      "platform": "Android",
+      "category": "Android Tablets",
+      "family": "POCO Pad",
+      "viewportWidth": 800,
+      "viewportHeight": 1280,
+      "dpr": 2,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "none",
+      "notes": "12.1-inch 16:10 120Hz entertainment tablet"
+    },
+    {
+      "id": "lenovo-tab-extreme",
+      "name": "Lenovo Tab Extreme",
+      "manufacturer": "Lenovo",
+      "platform": "Android",
+      "category": "Android Tablets",
+      "family": "Lenovo Tab Series",
+      "viewportWidth": 938,
+      "viewportHeight": 1500,
+      "dpr": 2,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "14.5-inch 3K OLED flagship tablet"
+    },
+    {
+      "id": "lenovo-tab-p12",
+      "name": "Lenovo Tab P12",
+      "manufacturer": "Lenovo",
+      "platform": "Android",
+      "category": "Android Tablets",
+      "family": "Lenovo Tab Series",
+      "viewportWidth": 922,
+      "viewportHeight": 1472,
+      "dpr": 2,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "none",
+      "notes": "12.7-inch 3K LTPS LCD"
+    },
+    {
+      "id": "lenovo-legion-tab-gen3",
+      "name": "Lenovo Legion Tab (8.8-inch)",
+      "manufacturer": "Lenovo",
+      "platform": "Android",
+      "category": "Android Tablets",
+      "family": "Legion Gaming Tablet",
+      "viewportWidth": 640,
+      "viewportHeight": 1024,
+      "dpr": 2.5,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "none",
+      "notes": "8.8-inch 2.5K 165Hz compact gaming tablet"
+    },
+    {
+      "id": "lenovo-tab-m11",
+      "name": "Lenovo Tab M11",
+      "manufacturer": "Lenovo",
+      "platform": "Android",
+      "category": "Android Tablets",
+      "family": "Lenovo Tab Series",
+      "viewportWidth": 600,
+      "viewportHeight": 960,
+      "dpr": 2,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "11-inch WUXGA education & family tablet"
+    },
+    {
+      "id": "amazon-fire-max-11",
+      "name": "Amazon Fire Max 11",
+      "manufacturer": "Amazon",
+      "platform": "Fire OS",
+      "category": "Android Tablets",
+      "family": "Amazon Fire Series",
+      "viewportWidth": 600,
+      "viewportHeight": 1000,
+      "dpr": 2,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "11-inch 2000x1200 flagship Fire OS tablet"
+    },
+    {
+      "id": "amazon-fire-hd-10-2023",
+      "name": "Amazon Fire HD 10 (13th Gen)",
+      "manufacturer": "Amazon",
+      "platform": "Fire OS",
+      "category": "Android Tablets",
+      "family": "Amazon Fire Series",
+      "viewportWidth": 600,
+      "viewportHeight": 960,
+      "dpr": 2,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "10.1-inch 1080p Full HD Fire tablet"
+    },
+    {
+      "id": "amazon-fire-hd-8-2024",
+      "name": "Amazon Fire HD 8",
+      "manufacturer": "Amazon",
+      "platform": "Fire OS",
+      "category": "Android Tablets",
+      "family": "Amazon Fire Series",
+      "viewportWidth": 533,
+      "viewportHeight": 853,
+      "dpr": 1.5,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "8.0-inch HD portable Fire OS tablet"
+    },
+    {
+      "id": "honor-magicpad-2",
+      "name": "Honor MagicPad 2 12.3",
+      "manufacturer": "Honor",
+      "platform": "Android",
+      "category": "Android Tablets",
+      "family": "MagicPad Series",
+      "viewportWidth": 800,
+      "viewportHeight": 1250,
+      "dpr": 2.4,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "none",
+      "notes": "12.3-inch 3K 144Hz OLED tablet"
+    },
+    {
+      "id": "huawei-matepad-pro-13-2",
+      "name": "Huawei MatePad Pro 13.2",
+      "manufacturer": "Huawei",
+      "platform": "HarmonyOS",
+      "category": "Android Tablets",
+      "family": "MatePad Series",
+      "viewportWidth": 960,
+      "viewportHeight": 1440,
+      "dpr": 2,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "notch",
+      "notes": "13.2-inch 3:2 flexible OLED HarmonyOS tablet"
+    },
+    {
+      "id": "tcl-nxtpaper-14",
+      "name": "TCL NXTPAPER 14",
+      "manufacturer": "TCL",
+      "platform": "Android",
+      "category": "Android Tablets",
+      "family": "NXTPAPER Tablets",
+      "viewportWidth": 800,
+      "viewportHeight": 1200,
+      "dpr": 2,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "none",
+      "notes": "14.3-inch 2.4K matte anti-glare tablet"
+    },
+    {
+      "id": "generic-mobile-xs-320",
+      "name": "Small Mobile (320px)",
+      "manufacturer": "Generic",
+      "platform": "Generic",
+      "category": "Generic Devices",
+      "family": "Responsive Breakpoints",
+      "viewportWidth": 320,
+      "viewportHeight": 568,
+      "dpr": 2,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "Minimum legacy CSS mobile width stress-test (320px)"
+    },
+    {
+      "id": "generic-mobile-sm-360",
+      "name": "Standard Android Mobile (360px)",
+      "manufacturer": "Generic",
+      "platform": "Generic",
+      "category": "Generic Devices",
+      "family": "Responsive Breakpoints",
+      "viewportWidth": 360,
+      "viewportHeight": 800,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "Most common global Android mobile CSS width (360x800)"
+    },
+    {
+      "id": "generic-mobile-md-375",
+      "name": "Compact Modern Mobile (375px)",
+      "manufacturer": "Generic",
+      "platform": "Generic",
+      "category": "Generic Devices",
+      "family": "Responsive Breakpoints",
+      "viewportWidth": 375,
+      "viewportHeight": 812,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "Classic design-system mobile artboard width (375x812)"
+    },
+    {
+      "id": "generic-mobile-lg-390",
+      "name": "Standard iOS Mobile (390px)",
+      "manufacturer": "Generic",
+      "platform": "Generic",
+      "category": "Generic Devices",
+      "family": "Responsive Breakpoints",
+      "viewportWidth": 390,
+      "viewportHeight": 844,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "Modern mid-size mobile viewport baseline"
+    },
+    {
+      "id": "generic-mobile-xl-414",
+      "name": "Large Phablet Mobile (414px)",
+      "manufacturer": "Generic",
+      "platform": "Generic",
+      "category": "Generic Devices",
+      "family": "Responsive Breakpoints",
+      "viewportWidth": 414,
+      "viewportHeight": 896,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "Large smartphone / Plus / Max viewport test"
+    },
+    {
+      "id": "generic-mobile-max-430",
+      "name": "Max Flagship Mobile (430px)",
+      "manufacturer": "Generic",
+      "platform": "Generic",
+      "category": "Generic Devices",
+      "family": "Responsive Breakpoints",
+      "viewportWidth": 430,
+      "viewportHeight": 932,
+      "dpr": 3,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "Pro Max / Ultra smartphone CSS viewport"
+    },
+    {
+      "id": "generic-phablet-480",
+      "name": "Wide Mobile / Mini-Tablet (480px)",
+      "manufacturer": "Generic",
+      "platform": "Generic",
+      "category": "Generic Devices",
+      "family": "Responsive Breakpoints",
+      "viewportWidth": 480,
+      "viewportHeight": 854,
+      "dpr": 2,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "480px intermediate responsive breakpoint"
+    },
+    {
+      "id": "generic-tablet-sm-600",
+      "name": "Small 7-8\" Tablet (600px)",
+      "manufacturer": "Generic",
+      "platform": "Generic",
+      "category": "Generic Devices",
+      "family": "Responsive Breakpoints",
+      "viewportWidth": 600,
+      "viewportHeight": 960,
+      "dpr": 2,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "600px small portrait tablet breakpoint"
+    },
+    {
+      "id": "generic-tablet-md-768",
+      "name": "Standard Portrait Tablet (768px)",
+      "manufacturer": "Generic",
+      "platform": "Generic",
+      "category": "Generic Devices",
+      "family": "Responsive Breakpoints",
+      "viewportWidth": 768,
+      "viewportHeight": 1024,
+      "dpr": 2,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "Canonical md: 768px CSS media query tablet viewport"
+    },
+    {
+      "id": "generic-tablet-lg-834",
+      "name": "Pro 11\" Tablet (834px)",
+      "manufacturer": "Generic",
+      "platform": "Generic",
+      "category": "Generic Devices",
+      "family": "Responsive Breakpoints",
+      "viewportWidth": 834,
+      "viewportHeight": 1194,
+      "dpr": 2,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "portrait",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "Modern 11-inch tablet design viewport"
+    },
+    {
+      "id": "generic-tablet-landscape-1024",
+      "name": "Landscape Tablet / Netbook (1024px)",
+      "manufacturer": "Generic",
+      "platform": "Generic",
+      "category": "Generic Devices",
+      "family": "Responsive Breakpoints",
+      "viewportWidth": 1024,
+      "viewportHeight": 768,
+      "dpr": 2,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "landscape",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "Canonical lg: 1024px breakpoint in landscape"
+    },
+    {
+      "id": "generic-laptop-1280",
+      "name": "Compact Laptop 13\" (1280×800)",
+      "manufacturer": "Generic",
+      "platform": "Generic",
+      "category": "Generic Devices",
+      "family": "Desktop & Laptop",
+      "viewportWidth": 1280,
+      "viewportHeight": 800,
+      "dpr": 2,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "landscape",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "Canonical xl: 1280px laptop viewport"
+    },
+    {
+      "id": "generic-laptop-1366",
+      "name": "Standard HD Laptop (1366×768)",
+      "manufacturer": "Generic",
+      "platform": "Generic",
+      "category": "Generic Devices",
+      "family": "Desktop & Laptop",
+      "viewportWidth": 1366,
+      "viewportHeight": 768,
+      "dpr": 1,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "landscape",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "Widescreen 1366x768 enterprise notebook"
+    },
+    {
+      "id": "generic-desktop-1440",
+      "name": "MacBook / Desktop (1440×900)",
+      "manufacturer": "Generic",
+      "platform": "Generic",
+      "category": "Generic Devices",
+      "family": "Desktop & Laptop",
+      "viewportWidth": 1440,
+      "viewportHeight": 900,
+      "dpr": 2,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "landscape",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "Standard 1440px design system desktop canvas"
+    },
+    {
+      "id": "generic-desktop-1920",
+      "name": "Full HD Monitor (1920×1080)",
+      "manufacturer": "Generic",
+      "platform": "Generic",
+      "category": "Generic Devices",
+      "family": "Desktop & Laptop",
+      "viewportWidth": 1920,
+      "viewportHeight": 1080,
+      "dpr": 1,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "landscape",
+      "foldState": "none",
+      "accuracy": "verified",
+      "cutout": "none",
+      "notes": "1080p widescreen desktop display"
+    },
+    {
+      "id": "generic-smart-hub-1024x600",
+      "name": "Smart Home Hub Display (1024×600)",
+      "manufacturer": "Generic",
+      "platform": "Generic",
+      "category": "Generic Devices",
+      "family": "Specialty Displays",
+      "viewportWidth": 1024,
+      "viewportHeight": 600,
+      "dpr": 1.5,
+      "supportedOrientations": [
+        "portrait",
+        "landscape"
+      ],
+      "defaultOrientation": "landscape",
+      "foldState": "none",
+      "accuracy": "estimated",
+      "cutout": "none",
+      "notes": "7-10 inch countertop smart display viewport"
+    }
+  ]
+}

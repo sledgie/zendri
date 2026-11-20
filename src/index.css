@@ -1,0 +1,77 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@layer base {
+  :root {
+    --font-sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  }
+
+  body {
+    font-family: var(--font-sans);
+    overflow: hidden;
+  }
+
+  code, pre, .font-mono {
+    font-family: var(--font-mono);
+  }
+}
+
+/* Studio inspection canvas patterns */
+.studio-canvas-dark {
+  background-color: #090d16;
+  background-image:
+    radial-gradient(rgba(148, 163, 184, 0.14) 1px, transparent 1px),
+    radial-gradient(rgba(56, 189, 248, 0.04) 1px, transparent 1px);
+  background-size: 20px 20px, 100px 100px;
+  background-position: 0 0, 0 0;
+}
+
+.studio-canvas-light {
+  background-color: #182030;
+  background-image: radial-gradient(rgba(226, 232, 240, 0.15) 1px, transparent 1px);
+  background-size: 20px 20px;
+}
+
+.studio-canvas-paper {
+  background-color: #e2e8f0;
+  background-image: radial-gradient(rgba(71, 85, 105, 0.18) 1px, transparent 1px);
+  background-size: 20px 20px;
+}
+
+/* Custom developer-grade slim scrollbars */
+.dev-scroll::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+
+.dev-scroll::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.dev-scroll::-webkit-scrollbar-thumb {
+  background: rgba(148, 163, 184, 0.24);
+  border-radius: 9999px;
+}
+
+.dev-scroll::-webkit-scrollbar-thumb:hover {
+  background: rgba(148, 163, 184, 0.42);
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+.reduce-motion *,
+.reduce-motion *::before,
+.reduce-motion *::after {
+  animation-duration: 0.01ms !important;
+  transition-duration: 0.01ms !important;
+}
