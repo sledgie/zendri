@@ -10,6 +10,9 @@ const __dirname = path.dirname(__filename);
 
 // https://vite.dev/config/
 export default defineConfig({
+  // Relative base so the build works when served from a subpath
+  // (GitHub Pages serves this repo at https://sledgie.github.io/zendri/).
+  base: "./",
   plugins: [react(), tailwindcss(), viteSingleFile()],
   resolve: {
     alias: {
