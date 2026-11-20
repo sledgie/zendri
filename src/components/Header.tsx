@@ -8,6 +8,7 @@ import {
   SlidersHorizontal,
   PanelLeft,
   Info,
+  ChevronUp,
 } from "lucide-react";
 import { PreviewStatus } from "../types/device";
 import { URLBar } from "./URLBar";
@@ -24,6 +25,9 @@ interface HeaderProps {
   isSidebarOpen: boolean;
   isInfoPanelOpen: boolean;
   totalCatalogCount: number;
+  /** Phone only: when true the header is hidden below the md breakpoint. */
+  isCollapsedOnMobile: boolean;
+  onCollapseMobile: () => void;
   onInputChange: (val: string) => void;
   onLoadUrl: (overrideUrl?: string) => void;
   onReload: () => void;
@@ -90,6 +94,8 @@ export const Header: React.FC<HeaderProps> = ({
   isSidebarOpen,
   isInfoPanelOpen,
   totalCatalogCount,
+  isCollapsedOnMobile,
+  onCollapseMobile,
   onInputChange,
   onLoadUrl,
   onReload,
@@ -104,7 +110,11 @@ export const Header: React.FC<HeaderProps> = ({
   const statusInfo = STATUS_META[previewStatus];
 
   return (
-    <header className="z-30 flex flex-wrap items-center justify-between gap-2.5 border-b border-slate-200 dark:border-slate-800/90 bg-white/95 dark:bg-slate-950/95 px-3 py-2 backdrop-blur shrink-0">
+    <header
+      className={`z-30 flex flex-wrap ${
+        isCollapsedOnMobile ? "max-md:hidden" : ""
+      } items-center justify-between gap-2.5 border-b border-slate-200 dark:border-slate-800/90 bg-white/95 dark:bg-slate-950/95 px-3 py-2 backdrop-blur shrink-0`}
+    >
       {/* Left: Sidebar Toggle + Logo */}
       <div className="flex items-center gap-2.5 shrink-0">
         <button
@@ -251,6 +261,17 @@ export const Header: React.FC<HeaderProps> = ({
           className="p-1.5 rounded-lg border border-slate-200 dark:border-slate-800 text-slate-600 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-900 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 cursor-pointer"
         >
           <HelpCircle className="w-4 h-4" />
+        </button>
+
+        {/* Hide Top Bar (phones only) */}
+        <button
+          type="button"
+          onClick={onCollapseMobile}
+          title="Hide top bar"
+          aria-label="Hide top bar"
+          className="md:hidden p-1.5 rounded-lg border border-slate-200 dark:border-slate-800 text-slate-600 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-900 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 cursor-pointer"
+        >
+          <ChevronUp className="w-4 h-4" />
         </button>
       </div>
     </header>

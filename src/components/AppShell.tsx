@@ -1,4 +1,5 @@
 import React, { useCallback, useEffect, useMemo, useRef, useState } from "react";
+import { ChevronDown } from "lucide-react";
 import {
   BUILTIN_DEVICES,
   DEVICE_CATALOG,
@@ -166,6 +167,10 @@ export const AppShell: React.FC = () => {
   const [isSettingsOpen, setIsSettingsOpen] = useState(false);
   const [isHelpOpen, setIsHelpOpen] = useState(false);
   const [isFullscreen, setIsFullscreen] = useState(false);
+  const [isHeaderCollapsedMobile, setIsHeaderCollapsedMobile] = useLocalStorage<boolean>(
+    "rdtl_header_collapsed_mobile",
+    false
+  );
   const [toastMessage, setToastMessage] = useState<string | null>(null);
 
   const workspaceRef = useRef<HTMLDivElement>(null);
@@ -503,6 +508,8 @@ export const AppShell: React.FC = () => {
           isSidebarOpen={isSidebarOpen}
           isInfoPanelOpen={isInfoPanelOpen}
           totalCatalogCount={DEVICE_CATALOG.totalDevices}
+          isCollapsedOnMobile={isHeaderCollapsedMobile}
+          onCollapseMobile={() => setIsHeaderCollapsedMobile(true)}
           onInputChange={handleInputChange}
           onLoadUrl={handleLoadUrl}
           onReload={handleReload}
@@ -514,6 +521,19 @@ export const AppShell: React.FC = () => {
           onOpenSettings={() => setIsSettingsOpen(true)}
           onOpenHelp={() => setIsHelpOpen(true)}
         />
+      )}
+
+      {/* Phone-only pull tab to bring the collapsed top bar back */}
+      {!isFullscreen && isHeaderCollapsedMobile && (
+        <button
+          type="button"
+          onClick={() => setIsHeaderCollapsedMobile(false)}
+          title="Show top bar"
+          aria-label="Show top bar"
+          className="md:hidden fixed top-0 left-1/2 z-40 -translate-x-1/2 flex h-6 w-14 items-center justify-center rounded-b-lg border border-t-0 border-slate-200 dark:border-slate-700 bg-white/95 dark:bg-slate-900/95 text-slate-600 dark:text-slate-300 shadow-md backdrop-blur focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 cursor-pointer"
+        >
+          <ChevronDown className="w-4 h-4" />
+        </button>
       )}
 
       {/* Main Body Area: Left Explorer + Center Workspace + Right Device Info */}
