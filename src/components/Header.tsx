@@ -1,6 +1,5 @@
 import React from "react";
 import {
-  Smartphone,
   Columns2,
   Sun,
   Moon,
@@ -12,6 +11,7 @@ import {
 } from "lucide-react";
 import { PreviewStatus } from "../types/device";
 import { URLBar } from "./URLBar";
+import logoUrl from "../assets/logo.png";
 
 interface HeaderProps {
   inputValue: string;
@@ -133,10 +133,14 @@ export const Header: React.FC<HeaderProps> = ({
         </button>
 
         <div className="flex items-center gap-2">
-          <div className="relative flex h-8 w-8 items-center justify-center rounded-lg bg-gradient-to-br from-sky-500/20 via-indigo-500/20 to-slate-900 border border-sky-500/40 shadow-inner">
-            <Smartphone className="w-4 h-4 text-sky-500 dark:text-sky-400" />
-            <span className="absolute -bottom-0.5 -right-0.5 h-2 w-2 rounded-full bg-indigo-400 ring-2 ring-white dark:ring-slate-950" />
-          </div>
+          {/* White tile: the logo's navy strokes need a light background in dark theme */}
+          <img
+            src={logoUrl}
+            alt="Zendri logo"
+            width={32}
+            height={32}
+            className="h-8 w-8 shrink-0 rounded-lg bg-white object-contain ring-1 ring-slate-200 dark:ring-slate-700"
+          />
           <div className="leading-tight">
             <div className="flex items-center gap-1.5">
               <span className="text-sm font-bold tracking-tight text-slate-900 dark:text-slate-100">
